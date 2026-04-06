@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# images
+data/images/*
+data/noisy_images/*
+
+!data/images/.gitkeep
+!data/noisy_images/.gitkeep
